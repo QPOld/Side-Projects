@@ -12,7 +12,7 @@ MLife = life    # Monster Life
 PLife = life-25    # Player Life
 
 PStr = 5    #Initial Player Strength Modifier. This determines the amount of damage the player can do.
-MStr = 4    #Initial Monster strength Modifier. This determines the amount of damage the monster can do.
+MStr = 2    #Initial Monster strength Modifier. This determines the amount of damage the monster can do.
 
 xp = 0  #Inital player experience. To level up a character you need 1.5 Times the current player to advance.
 level = 1   #The Player starts at level 1.
